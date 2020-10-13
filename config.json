@@ -1,0 +1,8 @@
+{
+  "port": 777,
+  "secure": false,
+  "securePort": 443,
+  "discordToken": "token",
+  "discordAdminIDs": ["id"],
+  "prefix": "^"
+}
